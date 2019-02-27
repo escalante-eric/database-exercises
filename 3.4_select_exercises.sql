@@ -87,5 +87,8 @@ SELECT payment_id,
    FROM payment
   WHERE payment_date LIKE '2005-05-27%';
 
+  CODE Updated to fix description in Github
+  
+
 
 
